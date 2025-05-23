@@ -51,7 +51,7 @@ StudySphere is a comprehensive learning platform designed to help students colla
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/StudySphereApp.git
+   git clone https://github.com/yourusername/StudySphere.git
    cd StudySphereApp
    
 
@@ -76,20 +76,18 @@ StudySphere is a comprehensive learning platform designed to help students colla
 
 ## Project Structure
 
-
-StudySphereApp/
-├── client/            # Frontend code
-│   ├── src/
-│   │   ├── components/  # Reusable UI components
-│   │   ├── hooks/       # Custom React hooks
-│   │   ├── lib/         # Utility functions
-│   │   ├── pages/       # Page components
-├── server/            # Backend API
-├── shared/            # Shared types and schemas
-├── uploads/           # File uploads directory
-├── dist/              # Production build output
-├── public/            # Static assets
-
+StudySphere/
+├── client/        # Frontend code
+│   └── src/
+│       ├── components/   # Reusable UI components
+│       ├── hooks/        # Custom React hooks
+│       ├── lib/          # Utility functions
+│       └── pages/        # Page components
+├── server/        # Backend API
+├── shared/        # Shared types and schemas
+├── uploads/       # File uploads directory
+├── dist/          # Production build output
+└── public/        # Static assets
 
 ## Available Scripts
 
