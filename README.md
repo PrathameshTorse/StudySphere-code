@@ -72,7 +72,7 @@ StudySphere is a comprehensive learning platform designed to help students colla
    yarn dev
    
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+5. Open [http://localhost:5000](http://localhost:5000) in your browser to see the application.
 
 ## Project Structure
 
